@@ -1,0 +1,105 @@
+guides:
+    - How to Become a Subject
+    
+purpose: become a great Research Scientist, focused on X.
+
+- time constraint: Every Week Saturday: 8 hours
+- role: Research Scientist
+- remuneration:
+- completion date: 20xx-October-xx[be qualified to occupy Research Scientist role]    
+- guide: 
+- sources:
+    - ...
+- sub-areas:
+    - ..
+- schools:
+    - ...
+- my key interest: 
+    - ...
+- companies | research labs:
+    - ...
+- priority:
+    - build: 4 hours
+    - study: 4 hours
+
+    - build:
+        - ...
+        
+    - study:
+        - ...
+
+==============================================================================================================================================================
+Institution:    
+    undergraduate: 
+        - program:
+            -
+        
+        Required Subjects 
+
+        Restricted Electives
+
+        Units in Major	                                                                
+        
+        Unrestricted Electives	                                                       
+
+    honours: 
+        -
+    masters:
+        -
+    doctrate: 
+        -
+==============================================================================================================================================================
+Institution:
+    undergraduate: 
+        - program:
+            - 
+            - programme plan: 
+    honours: 
+        - program:
+            - 
+    masters: 
+        - program:
+            - 
+    doctrate: 
+        - program:
+            - 
+
+    ===================================================================================
+    undergraduate:
+        Year 1: 
+            Fundamental:
+                
+            Core:
+                
+            Electives:
+
+            Credits: 
+
+        Year 2:
+            Core:
+                
+            Electives:
+            
+            Credits: 
+
+        Year 3: 
+            Core:                            
+                
+            Electives:
+
+            Credits: 
+
+        Minimum Credits: Year 1 + Year 2 + Year 3 = int + int + int = 416
+    ===================================================================================
+
+==============================================================================================================================================================
+accreditation template:
+undergraduate: 
+    - 
+honours: 
+    -
+masters:
+    -
+doctrate: 
+    -
+==============================================================================================================================================================

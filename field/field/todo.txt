@@ -1,0 +1,34 @@
+purpose: understand x.
+
+- priority:
+    - study
+    - field update
+
+- study:
+    - next field: how is x use?: 1 hour
+        - lectures:
+        - readings:
+        - recitations:
+        - assignments:
+        - exams:
+
+- field update:
+
+==============================================================================================
+- next:
+    - next field template
+        - next_field: 1 hour
+            - degree module:
+            - lectures:
+            - readings:
+            - assignments:
+            - exams:
+
+timeline:
+    see .plan.txt
+
+legend:
+    *: visited today/last session
+        nb: all subjects must be visited before a repeat visit.
+
+================================================completed================================================
