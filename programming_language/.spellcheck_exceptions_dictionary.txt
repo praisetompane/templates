@@ -1,13 +1,19 @@
-# acronyms
+# acronyms/abbreviations
+
 
 # authors
 
-# language keywords:
 
-# domain specific:
+# language keywords
 
-# course codes:
 
-# technology:
+# domain specific
 
-# institutions:
+
+# course codes
+
+
+# technology
+
+
+# institutions
